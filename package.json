@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "name": "usaf-cookies-challenge",
+  "version": "1.0.0",
+  "main": "server",
+  "scripts": {
+    "dev": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Th3Whit3Wolf/usaf-cookies-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Th3Whit3Wolf/usaf-cookies-challenge/issues"
+  },
+  "homepage": "https://github.com/Th3Whit3Wolf/usaf-cookies-challenge#readme",
+  "description": ""
+}
